@@ -1,4 +1,21 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Todo App with API
+
+This application allows you to create and store your own todos list.
+
+Functionality:
+  - create new todo
+  - delete todo
+  - edit todo
+  - mark todo as completed
+  - search todo
+  - filter todos by `completed`, `active` or `all`
+
+Technologies:
+  - React
+  - Typescript
+  - Bulma
+  - REST API
+  - SASS(SCSS)
+
+Working example you can find here
+[DEMO LINK](https://imaksweb.github.io/todo-app/)
